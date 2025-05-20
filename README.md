@@ -20,16 +20,18 @@ To analyze sales performance across products, regions, and sales teams to identi
 
 
 ## Process
-•	Imported and cleaned sales transaction data
-•	Created calculated measures for all KPIs
-•	Designed visualizations to track key metrics
-•	Implemented interactive filters for data exploration
+1.	Imported and cleaned sales transaction data
+2.	Created calculated measures for all KPIs
+3.	Designed visualizations to track key metrics
+4.	Implemented interactive filters for data exploration
+
 
 ## Project Insight
-•	Peanut Butter Cubes delivers 87% profit margin
-•	Sales peak November-January (holiday season)
-•	Kelci Walkden is top performer ($1.5M sales)
-•	Some products like Baker's Choco Chips underperform (17% margin)
+1.	Peanut Butter Cubes delivers 87% profit margin
+2.	Sales peak November-January (holiday season)
+3.	Kelci Walkden is top performer ($1.5M sales)
+4.	Some products like Baker's Choco Chips underperform (17% margin)
+
 
 ## Final Conclusion:
 The dashboard reveals three key opportunities:
