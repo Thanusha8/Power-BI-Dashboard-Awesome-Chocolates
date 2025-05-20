@@ -9,14 +9,15 @@ I developed a Power BI dashboard for Awesome Chocolates featuring sales analytic
 ## Project Objective
 To analyze sales performance across products, regions, and sales teams to identify profitable opportunities and optimize business strategy.
 ## Questions (KPIs)
-•	What is the Total Sales amount?
-•	What are This Month's sales?
-•	What is the Month-over-Month percentage change?
-•	How many Total Boxes were sold?
-•	How many Total Shipments were made?
-•	What is the Total Cost incurred?
-•	What is the Total Profit earned?
-•	What is the Profit Percentage?
+1.	What is the Total Sales amount?
+2.	What are This Month's sales?
+3.	What is the Month-over-Month percentage change?
+4.	How many Total Boxes were sold?
+5.	How many Total Shipments were made?
+6.	What is the Total Cost incurred?
+7.	What is the Total Profit earned?
+8.	What is the Profit Percentage?
+
 
 ## Process
 •	Imported and cleaned sales transaction data
