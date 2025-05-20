@@ -4,7 +4,7 @@ I developed a Power BI dashboard for Awesome Chocolates featuring sales analytic
 ![Screenshot 2025-05-20 224835](https://github.com/user-attachments/assets/10a2e87e-34c6-480c-8397-8b33174efca5)
 
 ## Dashboard Link
-- <a href="https://app.powerbi.com/view?r=eyJrIjoiMDA2N2ZlNGMtNmUwMS00ZmFmLTk1NTEtZThkYjQzYTEwNmY4IiwidCI6IjE4OWRjNjFjLTc2OWItNDA0OC04YjBmLTZkZTA3NGJiYTI2YyIsImMiOjh9">Dataset</a>
+- <a href="https://app.powerbi.com/view?r=eyJrIjoiMDA2N2ZlNGMtNmUwMS00ZmFmLTk1NTEtZThkYjQzYTEwNmY4IiwidCI6IjE4OWRjNjFjLTc2OWItNDA0OC04YjBmLTZkZTA3NGJiYTI2YyIsImMiOjh9">See the full dashboard here</a>
 
 ## Project Objective
 To analyze sales performance across products, regions, and sales teams to identify profitable opportunities and optimize business strategy.
